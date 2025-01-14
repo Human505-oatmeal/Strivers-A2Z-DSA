@@ -7,4 +7,5 @@ def pattern(n):
             print("*", end="")
         print()
 
+
 pattern(5)
