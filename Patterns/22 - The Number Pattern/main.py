@@ -8,4 +8,5 @@ def pattern(n):
             print(n - min(top, left, right, down), end=" ")
         print()
 
-pattern(5)
+
+pattern(6)

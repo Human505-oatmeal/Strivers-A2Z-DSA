@@ -4,4 +4,5 @@ def rectangle(n):
             print("*", end="")  # end="" prevents newline after printing "*"
         print()  # Jumps to newline
 
+
 rectangle(6)  # Call that bad boy
