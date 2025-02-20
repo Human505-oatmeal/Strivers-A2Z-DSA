@@ -18,7 +18,7 @@ rectangle(6)  # Call that bad boy
 
 ## Example Output
 
-if `n = 6`:
+if `n = 6`
 
 ```
 ******
